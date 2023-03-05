@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="sandhi_checker" />
+          <option value="MAG.C16Vinf.*" />
+          <option value="MAG.Noun.cardinal" />
+          <option value="noun_guesser" />
+          <option value="verb_guesser" />
+          <option value="Verb" />
+          <option value="Noun" />
+          <option value="Adjective" />
+          <option value="Adverb" />
+          <option value="adjective_guesser" />
+          <option value="adverb_guesser" />
+          <option value="TamilPart" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
